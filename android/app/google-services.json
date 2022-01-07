@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691481318667",
+    "project_id": "shamo-f7382",
+    "storage_bucket": "shamo-f7382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691481318667:android:a51af1b89fe7be3f463e0e",
+        "android_client_info": {
+          "package_name": "com.erix.shamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691481318667-1ri4rs7np476hvrec58rjr5in5vb712k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKwr9AAtgnem1z2YKE2wKHROn6doIqJaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691481318667-1ri4rs7np476hvrec58rjr5in5vb712k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
