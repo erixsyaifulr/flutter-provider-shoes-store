@@ -1,4 +1,4 @@
-# shamo
+# Flutter - Shoes Store
 
 A new Flutter project.
 
