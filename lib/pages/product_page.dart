@@ -20,7 +20,7 @@ class _ProductPageState extends State<ProductPage> {
     'assets/image_shoes.png',
     'assets/image_shoes.png',
   ];
-  List familiar_shoes = [
+  List familiarShoes = [
     'assets/image_shoes.png',
     'assets/image_shoes.png',
     'assets/image_shoes.png',
@@ -363,7 +363,7 @@ class _ProductPageState extends State<ProductPage> {
                   SingleChildScrollView(
                     scrollDirection: Axis.horizontal,
                     child: Row(
-                      children: familiar_shoes.map((image) {
+                      children: familiarShoes.map((image) {
                         index++;
                         return Container(
                           margin: EdgeInsets.only(
