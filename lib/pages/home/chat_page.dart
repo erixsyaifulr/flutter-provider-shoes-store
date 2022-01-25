@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:shamo/models/message_mode.dart';
-import 'package:shamo/pages/home/main_page.dart';
+import 'package:shamo/models/message_model.dart';
 import 'package:shamo/pages/widget/chat_tile.dart';
 import 'package:shamo/providers/auth_provider.dart';
 import 'package:shamo/providers/page_provider.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:shamo/models/message_mode.dart';
+import 'package:shamo/models/message_model.dart';
 import 'package:shamo/models/product_model.dart';
 import 'package:shamo/pages/widget/chat_bubble.dart';
 import 'package:shamo/providers/auth_provider.dart';

@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:shamo/models/message_mode.dart';
+import 'package:shamo/models/message_model.dart';
 import 'package:shamo/models/product_model.dart';
 import 'package:shamo/models/user_model.dart';
 

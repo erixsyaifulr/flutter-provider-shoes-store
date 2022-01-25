@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shamo/models/message_mode.dart';
+import 'package:shamo/models/message_model.dart';
 import 'package:shamo/pages/detail_chat.dart';
 import 'package:shamo/theme.dart';
 import 'package:shamo/models/product_model.dart';

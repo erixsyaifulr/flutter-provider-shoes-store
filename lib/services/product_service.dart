@@ -4,7 +4,6 @@ import 'package:shamo/models/product_model.dart';
 import 'package:http/http.dart' as http;
 
 class ProductService {
-  // String baseUrl = 'http://192.168.1.26:8000/api';
   String baseUrl = 'http://192.168.43.125:8000/api';
 
   Future<List<ProductModel>> getProduct() async {

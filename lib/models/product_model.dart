@@ -1,6 +1,5 @@
 import 'package:shamo/models/category_model.dart';
 import 'package:shamo/models/galery_model.dart';
-import 'package:intl/intl.dart';
 
 class ProductModel {
   int id;
